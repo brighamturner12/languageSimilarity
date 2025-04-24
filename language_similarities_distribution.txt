@@ -1,0 +1,11 @@
+            1           2           3           4           5           6                  7                  8                  9                 10                 11          12
+0  Portuguese  Portuguese  Portuguese  Portuguese  Portuguese  Portuguese         Portuguese             Danish             Danish          Esperanto            Occitan     Occitan
+1     Catalan     Catalan     Catalan     Italian     Italian     Italian            Italian          Esperanto          Esperanto           Asturian           Asturian     Romansh
+2     Spanish     Spanish      French     Romansh   Esperanto   Esperanto          Esperanto         Portuguese              Dutch         Portuguese         Portuguese       Latin
+3      French     Occitan     Italian     Catalan      French      Danish             German             German             German             Danish  Norwegian Nynorsk   Esperanto
+4    Galician    Asturian     Spanish   Esperanto    Romanian     Catalan  Norwegian Nynorsk            Swedish            Occitan            Occitan         Belarusian  Portuguese
+5    Asturian    Galician     Romansh      French     Catalan     Spanish            Occitan  Norwegian Nynorsk   Norwegian Bokmål  Norwegian Nynorsk             Danish  Belarusian
+6     Occitan     Italian    Galician       Dutch      Danish      French             Danish              Dutch           Asturian         Belarusian      Luxembourgish    Friulian
+7    Croatian      French     Occitan     English    Asturian    Romanian             French           Asturian         Portuguese             German              Latin    Asturian
+8     Italian       Latin    Asturian    Asturian     Spanish     Occitan            Catalan            Occitan  Norwegian Nynorsk              Dutch            Romansh     Catalan
+9     Romansh       Czech       Dutch     Spanish       Dutch      German           Romanian            Italian         Belarusian   Norwegian Bokmål              Dutch     Italian
